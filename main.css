@@ -1,0 +1,28 @@
+body{
+  background-color: antiquewhite;
+}
+
+
+h2{
+  color: blue;
+}
+
+article{
+  padding: 50px;
+}
+
+
+#articleOne{
+  font-family: 'Courier New';
+  border: 6px dotted green;
+}
+
+#articleTwo{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow';
+  border: 5px solid purple;
+}
+
+articleThree{
+  font-family: 'Gill Sans', 'Gill Sans MT';
+  border: 3px dashed brown;
+}
